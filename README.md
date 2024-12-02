@@ -1,2 +1,2 @@
 # ppooppy.com
-ppooppy.com website
+ppooppy.com - keep your neighborhood clean by installing bag dispencers!

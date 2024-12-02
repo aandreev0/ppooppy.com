@@ -1,0 +1,94 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+header nav a {
+    color: white;
+    margin: 0 1em;
+    text-decoration: none;
+}
+
+.hero {
+    background: url('https://picsum.photos/id/57/2448/3264') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 5em 0;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+
+.hero h2 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+
+}
+
+.hero-buttons .btn {
+    background: #4CAF50;
+    color: white;
+    padding: 0.5em 1.5em;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 0.5em;
+}
+
+.why, .how-it-works, .community-stories {
+    padding: 2em 0;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 1em 0;
+}
+
+ol {
+    text-align: left;
+    display: inline-block;
+}
+
+.community-stories .story {
+    display: inline-block;
+    margin: 1em;
+    text-align: center;
+}
+
+.community-stories img {
+    border-radius: 50%;
+    margin-bottom: 1em;
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+footer .social-links a {
+    color: #4CAF50;
+    margin: 0 1em;
+    text-decoration: none;
+}
