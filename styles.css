@@ -80,6 +80,12 @@ ol {
     margin-bottom: 1em;
 }
 
+.get-started img {
+  width: 20em;
+  border-radius: 0%;
+
+}
+
 footer {
     background: #333;
     color: white;
