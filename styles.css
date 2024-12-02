@@ -86,6 +86,11 @@ ol {
 
 }
 
+.map img{
+  width: 15em;
+
+}
+
 footer {
     background: #333;
     color: white;
