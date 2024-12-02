@@ -22,16 +22,16 @@ header {
 header nav a {
     color: white;
     margin: 0 1em;
-    text-decoration: none;
+    xtext-decoration: none;
 }
 
 .hero {
-    background: url('https://picsum.photos/id/57/2448/3264') no-repeat center center/cover;
+    background: url('https://picsum.photos/id/62/2000/1333') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 5em 0;
     color: white;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    xtext-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 
 }
 
