@@ -81,8 +81,13 @@ ol {
 }
 
 .get-started img {
-  width: 20em;
+  width: 15em;
   border-radius: 0%;
+
+}
+
+.get-started .step{
+  border-bottom: 1px solid #cecece;
 
 }
 
